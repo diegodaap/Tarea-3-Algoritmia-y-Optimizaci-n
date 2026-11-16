@@ -1,6 +1,5 @@
-# Tarea-3-Algoritmia-y-Optimizaci-n
-Tarea 3: Ajuste de la temperatura del Recocido Simulado (2-opt, TSP) con Diseño de Experimentos (ANOVA y bootstrap)
 # Tarea 3 - Algoritmia y Optimización
+Tarea 3: Ajuste de la temperatura del Recocido Simulado (2-opt, TSP) con Diseño de Experimentos (ANOVA y bootstrap)
 
 ## Descripción
 Ajuste de la temperatura inicial del Recocido Simulado (2-opt) sobre TSP con n = 5, 10, 15,
